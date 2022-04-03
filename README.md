@@ -24,7 +24,7 @@ Our approach achieves the new state-of-the-art **56.9\%** in terms of NDS metric
 ![method](figs/arch.png "model arch")
 
 # Bibtex
-If you find our work helpful for your research, please consider citing the following BibTeX entry.
+If this work is helpful for your research, please consider citing the following BibTeX entry.
 
 ```
 @article{li2022bevformer,
