@@ -6,8 +6,6 @@ The video demo can also be found on [YouTube](https://www.youtube.com/watch?v=n-
 
 The official implementation of the paper "[BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270)".
 
-Authors: [Zhiqi Li](https://scholar.google.com.hk/citations?user=H2fJLqEAAAAJ&hl=zh-CN)\*, [Wenhai Wang](https://whai362.github.io/)\*, [Hongyang Li](https://lihongyang.info/)\*, [Enze Xie](https://xieenze.github.io/), [Chonghao Sima](https://scholar.google.com.hk/citations?user=dgYJ6esAAAAJ&hl=zh-CN&oi=ao), [Tong Lu](https://cs.nju.edu.cn/lutong/index.htm), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN), [Jifeng Dai](https://jifengdai.org/)
-
 Code will be released around June 2022. 
 
 # News
@@ -24,16 +22,3 @@ Our approach achieves the new state-of-the-art **56.9\%** in terms of NDS metric
 
 # Methods
 ![method](figs/arch.png "model arch")
-
-
-
-# Bibtex
-If you find our work helpful for your research, please consider citing the following BibTeX entry.   
-```
-@article{li2022bevformer,
-  title={BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers},
-  author={Li, Zhiqi and Wang, Wenhai and Li, Hongyang and Xie, Enze and Sima, Chonghao and Lu, Tong and Qiao, Yu and Dai, Jifeng}
-  journal={arXiv preprint arXiv:2203.17270},
-  year={2022}
-}
-```
