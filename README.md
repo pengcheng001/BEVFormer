@@ -34,12 +34,10 @@ Our approach achieves the new state-of-the-art **56.9\%** in terms of NDS metric
 # Bibtex
 If you find our work helpful for your research, please consider citing the following BibTeX entry.   
 ```
-@misc{li2022bevformer,
-      title={BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers}, 
-      author={Zhiqi Li and Wenhai Wang and Hongyang Li and Enze Xie and Chonghao Sima and Tong Lu and Qiao Yu and Jifeng Dai},
-      year={2022},
-      eprint={2203.17270},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{li2022bevformer,
+  title={BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers},
+  author={Li, Zhiqi and Wang, Wenhai and Li, Hongyang and Xie, Enze and Sima, Chonghao and Lu, Tong and Qiao, Yu and Dai, Jifeng}
+  journal={arXiv preprint arXiv:2203.17270},
+  year={2022}
 }
 ```
