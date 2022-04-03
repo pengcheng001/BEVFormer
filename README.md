@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-830a-2dd423c1d025.mp4
 
-The video demo can also be found on [Youtube](https://www.youtube.com/watch?v=n-cM32B9Iyw), [Bilibili](https://www.bilibili.com/video/BV17q4y1e7He?spm_id_from=333.999.0.0).
+The video demo can also be found on [YouTube](https://www.youtube.com/watch?v=n-cM32B9Iyw), [bilibili](https://www.bilibili.com/video/BV17q4y1e7He?spm_id_from=333.999.0.0).
 
 The official implementation of the paper "[BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270)".
 
