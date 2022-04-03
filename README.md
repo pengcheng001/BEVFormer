@@ -7,7 +7,7 @@ The official implementation of the paper "[BEVFormer: Learning Bird's-Eye-View R
 
 Authors: [Zhiqi Li](https://scholar.google.com.hk/citations?user=H2fJLqEAAAAJ&hl=zh-CN)\*, [Wenhai Wang](https://whai362.github.io/)\*, [Hongyang Li](https://lihongyang.info/)\*, [Enze Xie](https://xieenze.github.io/), [Chonghao Sima](https://scholar.google.com.hk/citations?user=dgYJ6esAAAAJ&hl=zh-CN&oi=ao), [Tong Lu](https://cs.nju.edu.cn/lutong/index.htm), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN), [Jifeng Dai](https://jifengdai.org/)
 
-Video: [Youtube](https://www.youtube.com/watch?v=n-cM32B9Iyw), [Bilibili](https://www.bilibili.com/video/BV17q4y1e7He?spm_id_from=333.999.0.0)
+Video Demo: [Youtube](https://www.youtube.com/watch?v=n-cM32B9Iyw), [Bilibili](https://www.bilibili.com/video/BV17q4y1e7He?spm_id_from=333.999.0.0)
 
 Code will be released around June 2022. 
 # Team
