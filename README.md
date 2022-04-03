@@ -9,7 +9,7 @@ The official implementation of the paper "[BEVFormer: Learning Bird's-Eye-View R
 Code will be released around June 2022. 
 
 # News
-[2022/3/10]: We achieve the SOTA on [nuScenes Detection Task](https://nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera) with **56.9% NDS** (camera-only)!
+[2022/3/10]: BEVFormer achieve the SOTA on [nuScenes Detection Task](https://nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera) with **56.9% NDS** (camera-only)!
 </br>
 
 
