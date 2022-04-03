@@ -9,9 +9,6 @@ The official implementation of the paper "[BEVFormer: Learning Bird's-Eye-View R
 Authors: [Zhiqi Li](https://scholar.google.com.hk/citations?user=H2fJLqEAAAAJ&hl=zh-CN)\*, [Wenhai Wang](https://whai362.github.io/)\*, [Hongyang Li](https://lihongyang.info/)\*, [Enze Xie](https://xieenze.github.io/), [Chonghao Sima](https://scholar.google.com.hk/citations?user=dgYJ6esAAAAJ&hl=zh-CN&oi=ao), [Tong Lu](https://cs.nju.edu.cn/lutong/index.htm), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN), [Jifeng Dai](https://jifengdai.org/)
 
 Code will be released around June 2022. 
-# Team
-
-This project is supported by the Fundamental Vision team and the [PerceptionX](https://github.com/OpenPerceptionX) team of Shanghai AI Laboratory.
 
 # News
 [2022/3/10]: We achieve the SOTA on [nuScenes Detection Task](https://nuscenes.org/object-detection?externalData=all&mapData=all&modalities=Camera) with **56.9% NDS** (camera-only)!
